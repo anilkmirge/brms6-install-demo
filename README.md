@@ -1,6 +1,6 @@
 Steps:
 
-Download the following from the JBoss Customer Portal: http://www.access.redhat.com
+Download the following from the JBoss Customer Portal: http://access.redhat.com
 
  * EAP6 (jboss-eap-6.1.1.zip)
  * BRMS deployable (jboss-brms-6.0.0.GA-redhat-2-deployable-eap6.x.zip)
