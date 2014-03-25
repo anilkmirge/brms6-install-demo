@@ -1,14 +1,13 @@
-Steps:
+Setup and Configuration
 
-Download the following from the JBoss Customer Portal: http://access.redhat.com
+    See README in 'installs' directory
 
- * EAP6 (jboss-eap-6.1.1.zip)
- * BRMS deployable (jboss-brms-6.0.0.GA-redhat-2-deployable-eap6.x.zip)
+    add products
 
-Copy the above two files into installs directory for the init.sh script to work.
+    run 'init.sh' & read output
 
-Ensure that this file is executable by running:
+    start JBoss EAP server, ./brms-server/jboss-eap-6.1/bin/standalone.sh
 
-chmod +x <path-to-project>/installs/jboss-eap-6.1.1.zip
-chmod +x <path-to-project>/installs/jboss-brms-6.0.0.GA-redhat-2-deployable-eap6.x.zip
+    inspect project in BRMS, login http://localhost:8080/business central (u:rules / p:password11!)
+
 
