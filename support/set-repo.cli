@@ -1,0 +1,6 @@
+batch
+/system-property=org.uberfire.nio.git.dir:add(value="${jboss.home.dir}/brmsGitDir")
+/system-property=org.uberfire.metadata.index.dir:add(value="${jboss.home.dir}/brmsIndexDir")
+/system-property=org.guvnor.m2repo.dir:add(value="${jboss.home.dir}/m2RepoDir")
+reload
+run-batch

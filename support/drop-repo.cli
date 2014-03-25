@@ -1,0 +1,5 @@
+batch
+/system-property=org.uberfire.nio.git.dir:remove
+/system-property=org.uberfire.metadata.index.dir:remove
+/system-property=org.guvnor.m2repo.dir:remove
+run-batch
