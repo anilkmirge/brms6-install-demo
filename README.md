@@ -1,7 +1,5 @@
 Setup and Configuration
 
-    See README in 'installs' directory
-
     add products
 
     run 'init.sh' & read output

@@ -8,9 +8,9 @@ SERVER_DIR=$JBOSS_HOME/standalone/deployments
 SERVER_CONF=$JBOSS_HOME/standalone/configuration
 SERVER_BIN=$JBOSS_HOME/bin
 EAP=jboss-eap-6.1.1.zip
-BRMS=jboss-brms-6.0.0.GA-redhat-2-deployable-eap6.x.zip
+BRMS=jboss-brms-6.0.1.GA-redhat-4-deployable-eap6.x.zip
 SUPPORT_DIR=./support
-VERSION=6.0.0.GA
+VERSION=6.0.1.GA
 
 # wipe screen.
 clear 
